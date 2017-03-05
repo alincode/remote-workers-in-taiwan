@@ -1,6 +1,6 @@
 # Summary
 
-* [介紹](README.md)
+* [序](README.md)
 * [我的小故事](my-story.md)
 * [什麼是遠距工作](what-is-remote-job.md)
 * [遠距工作真的好嗎？](is-it-really-so-good.md)
