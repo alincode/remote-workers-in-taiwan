@@ -20,7 +20,7 @@
 * [建立人生清單](bucket-list.md)
 * [何時是好時機，爭取遠端工作](when.md)
 * [工作地點的選擇](location.md)
-* [心理強度](mental-strength.md)
+* [提升心理強度](mental-strength.md)
 * [爭取](fight-for.md)
 * [自由工作者](freelancer.md)
 * [結語](conclusion.md)
