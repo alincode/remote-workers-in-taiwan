@@ -9,6 +9,7 @@
 * [不是每個人都適合遠端工作](it-is-not-good-for-everyone.md)
 * [遠距工作需求來自於](demand.md)
 * [契約與收入模式](contract-and-income.md)
+* [關於勞健保](insurance.md)
 * [哪些類型的工作適合遠距工作](type.md)
 * [時間管理工具](time-management-tools.md)
 * [團隊合作](team-work.md)

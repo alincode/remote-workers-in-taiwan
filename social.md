@@ -12,16 +12,15 @@
 
 * [線上讀書會清單](https://github.com/onlinereadbook/office)
 * 技術大拜拜活動
-
-Modern Web
-HKOSCON
-JSDC
-COSCUP
-OSDC
-MOPCON
-ICOS
-TOSSUG
-JCConf
+  * Modern Web
+  * HKOSCON
+  * JSDC
+  * COSCUP
+  * OSDC
+  * MOPCON
+  * ICOS
+  * TOSSUG
+  * JCConf
 
 ### 娛樂性活動
 
