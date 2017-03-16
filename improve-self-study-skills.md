@@ -90,6 +90,8 @@
 
 透過別人整理過的內容來節省時間
 
+* [TechBridge 技術週刊](http://weekly.techbridge.cc/)：一個開發者為開發者編輯的技術週刊
+每週六發送
 * [CodeTengu Weekly 碼天狗週刊](http://weekly.codetengu.com/)
 * [訂閱電子報 | iThome](http://www.ithome.com.tw/epaper)
 * [码农周刊_一份专为程序员打造的IT技术周刊](http://weekly.manong.io/)
