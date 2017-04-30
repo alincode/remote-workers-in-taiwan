@@ -1,5 +1,6 @@
 # Summary
 
+* [社群活動](video/README.md)
 * [序](README.md)
 * [我的小故事](my-story.md)
 * [什麼是遠距工作](what-is-remote-job.md)
