@@ -31,7 +31,4 @@
 
 ### 勘誤通知
 
-如發現內容勘誤，歡迎利用這些管道和我聯繫：
-
-* 使用 GitHub Issues 回報錯誤或發 pull request。
-* 寄信到 alincode@gmail.com
+如發現內容勘誤，歡迎使用 [GitHub Issues](https://github.com/alincode/remote-workers-in-taiwan/issues) 回報錯誤或發 pull request。
