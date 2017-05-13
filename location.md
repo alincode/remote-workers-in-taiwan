@@ -39,3 +39,11 @@
 * 圖書館
 * 網咖
 * 有很大的交誼廳，並安靜的青年旅館
+
+#### 香港
+
+* [Desk-one 溫室](https://www.desk-one.hk/)
+
+#### 台灣
+
+* [Cafe Nomad：咖啡廳遊牧民族](https://cafenomad.tw/)

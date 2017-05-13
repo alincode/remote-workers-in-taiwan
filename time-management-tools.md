@@ -8,7 +8,7 @@
 
 以下是我使用的工具，分享給大家：
 
-### Waketime
+#### Waketime
 
 - https://wakatime.com/
 - 安裝 trace plugin 並設定你的 token 後，會自動追蹤你 code 的時間
@@ -23,12 +23,12 @@
 
 ![](http://i.imgur.com/YAGEG0F.png)
 
-### 番茄計時器
+#### 番茄計時器
 
 - [tomato timer](https://tomato-timer.com/)
 - 工作 25 分鐘，休息 5 分鐘，經過四個遞迴時，可以有一次長休息 10 分鐘。
 
-### 料理計時器
+#### 料理計時器
 
 - 在五金行買的，一個才 99 塊，聲音響亮到不行。
 - 一個設定 5 分鐘
